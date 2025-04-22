@@ -322,8 +322,8 @@ LOGGING = {
             'propagate': True,
         },
         'django.template': {
-            "handlers": ['errors'],
-            "propagate": True,
+            'handlers': ['errors'],
+            'propagate': True,
         },
         'django.db_backends': {
             'handlers': ['errors'],
